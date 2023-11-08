@@ -3,17 +3,15 @@
 “Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya. Pada kesempatan kali ini, saya akan lebih mendalami bisnis dalam bidang perhotelan. Fokus yang saya tuju adalah untuk mengetahui bagaimana perilaku pelanggan dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang ditemukan akan  sajikan dalam bentuk data visualisasi agar lebih mudah dipahami dan bersifat lebih persuasif. ”
 
 ## Data Preprocessing
--Handle Missing Value:
+-Handle Missing Value<br>
   Mengatasi data null pada kolom company, agent, children, city. Pada kolom company, agent dan children kita mengatasinya dengan mengubah mereka menjadi 0, karena kita tidak tahu kira-kira company yang mana nih yang sebenernya berada di kolom null tersebut nah daripada kita miss information lebih baik kita isi 0 dulu saja, apabila sudah ada berita update mengenai data null company tersebut baru bisa kita ganti menjadi nilai yang sebenernya, begitupun dengan agent dan children. Sebenernya sama untuk city, namun bedanya pada agent tipe datanya adalah text maka kita akan mengubah menjadi unknown. 
--Replace inappropriate values:
+-Replace inappropriate values<br>
   Mengganti value yang tidak sesuai, pada kolom meal terdapat 4 varian yaitu 'Breakfast', 'Full Board', 'Dinner', 'No Meal', 'Undefined’, karena no meal dengan undefined sama aja. Maka kita akan mengubah undefined menjadi no meal
--Convert type data int to bool 
+-Convert type data int to bool <br>
   Karena isi dari data is_repeated_guest yes or no, maka lebih baik diubah jadi bool
--Drop unnecessary data
+-Drop unnecessary data<br>
   Karena children, babies termasuk pengunjung, yang tidak ada bedanya (dari segi harga) maka akan dinamakan total_visitors
 karena weekend dan weekdays sama aja untuk menghitung durasi pengunjung maka akan diganti menjadi stay_duration
-
-![image](https://github.com/ariniamsr/Investigate_Hotel_Business/assets/117062760/b915091a-5683-4903-a30d-336e35443d39)
 
     
 ## Monthly Hotel Booking Analysis Based on Hotel Type
