@@ -19,7 +19,7 @@ karena weekend dan weekdays sama aja untuk menghitung durasi pengunjung maka aka
 ## Monthly Hotel Booking Analysis Based on Hotel Type
   ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/blob/main/1.png)
 - Interpretation: <br>
-*Jumlah rata-rata pemesanan hotel tertinggi pada bulan Juli dan Resort Hotel dicapai pada bulan Juni Hal ini dikarenakan adanya libur Idul Fitri dan libur sekolah. Dan juga ada pertumbuhan rata-rata jumlah pemesanan hotel pada bulan Desember untuk City Hotel dan Resort Hotel, Hal ini dikarenakan libur Natal dan liburan malam tahun baru
+Jumlah rata-rata pemesanan hotel tertinggi pada bulan Juli dan Resort Hotel dicapai pada bulan Juni Hal ini dikarenakan adanya libur Idul Fitri dan libur sekolah. Dan juga ada pertumbuhan rata-rata jumlah pemesanan hotel pada bulan Desember untuk City Hotel dan Resort Hotel, Hal ini dikarenakan libur Natal dan liburan malam tahun baru
 ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/assets/117062760/5c50412d-cfe6-4184-bdd9-458b8a221b89)
 
 
