@@ -26,7 +26,7 @@ Jumlah rata-rata pemesanan hotel tertinggi pada bulan Juli dan Resort Hotel dica
 
 ## Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates
 
-  ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/blob/main/2.png)
+  ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/blob/main/dua.png)
 
 - Interpretation: <br>
 Semakin lama pelanggan menginap, semakin tinggi tingkat pembatalan pemesanan. Durasi menginap paling banyak dibatalkan (cancellation rate). dapat dilihat dari grafik bahwa banyaknya seseorang membatalkan pemesanan dimiliki oleh resort hotel dibandingkan dengan city hotel, karena jika di city hotel seseorang kemungkinan tidak akan reservasi hotel lebih lama dibandingkan dengan resort hotel, karena Resort hotel sendiri ialah tempat yang digunakan untuk relaksasi, liburan dengan fasilitas yang lengkap. Beberapa kegiatan biasanya ditawarkan di resort, termasuk pijat, makanan, perawatan kosmetik, dan hiburan langsung. Bentuk bangunanya bisa seperti bangunan tunggal seperti hotel, lokasinya bisa berupa pulau tertentu atau seluruh pulau. Itu sebabnya resort hotel yang memiliki cancellation rate lebih tinggi dibandingkan dengan city hotel
