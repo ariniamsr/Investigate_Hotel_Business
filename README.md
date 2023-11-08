@@ -5,13 +5,16 @@
 ## Data Preprocessing
 -Handle Missing Value <br>
   Mengatasi data null pada kolom company, agent, children, city. Pada kolom company, agent dan children kita mengatasinya dengan mengubah mereka menjadi 0, karena kita tidak tahu kira-kira company yang mana nih yang sebenernya berada di kolom null tersebut nah daripada kita miss information lebih baik kita isi 0 dulu saja, apabila sudah ada berita update mengenai data null company tersebut baru bisa kita ganti menjadi nilai yang sebenernya, begitupun dengan agent dan children. Sebenernya sama untuk city, namun bedanya pada agent tipe datanya adalah text maka kita akan mengubah menjadi unknown. 
+  
 -Replace inappropriate values <br>
-  Mengganti value yang tidak sesuai, pada kolom meal terdapat 4 varian yaitu 'Breakfast', 'Full Board', 'Dinner', 'No Meal', 'Undefined’, karena no meal dengan undefined sama aja. Maka kita akan mengubah undefined menjadi no meal
+  Mengganti value yang tidak sesuai, pada kolom meal terdapat 4 varian yaitu 'Breakfast', 'Full Board', 'Dinner', 'No Meal', 'Undefined’, karena no meal dengan undefined sama aja. Maka kita akan mengubah undefined menjadi no meal.
+  
 -Convert type data int to bool <br>
-  Karena isi dari data is_repeated_guest yes or no, maka lebih baik diubah jadi bool
+  Karena isi dari data is_repeated_guest yes or no, maka lebih baik diubah jadi bool.
+  
 -Drop unnecessary data <br>
   Karena children, babies termasuk pengunjung, yang tidak ada bedanya (dari segi harga) maka akan dinamakan total_visitors
-karena weekend dan weekdays sama aja untuk menghitung durasi pengunjung maka akan diganti menjadi stay_duration
+karena weekend dan weekdays sama aja untuk menghitung durasi pengunjung maka akan diganti menjadi stay_duration.
 
     
 ## Monthly Hotel Booking Analysis Based on Hotel Type
