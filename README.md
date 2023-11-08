@@ -18,8 +18,8 @@ karena weekend dan weekdays sama aja untuk menghitung durasi pengunjung maka aka
     
 ## Monthly Hotel Booking Analysis Based on Hotel Type
   ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/blob/main/1.png)
-- Interpretation:
-Jumlah rata-rata pemesanan hotel tertinggi pada bulan Juli dan Resort Hotel dicapai pada bulan Juni Hal ini dikarenakan adanya libur Idul Fitri dan libur sekolah. Dan juga ada pertumbuhan rata-rata jumlah pemesanan hotel pada bulan Desember untuk City Hotel dan Resort Hotel, Hal ini dikarenakan libur Natal dan liburan malam tahun baru
+- Interpretation: <br>
+*Jumlah rata-rata pemesanan hotel tertinggi pada bulan Juli dan Resort Hotel dicapai pada bulan Juni Hal ini dikarenakan adanya libur Idul Fitri dan libur sekolah. Dan juga ada pertumbuhan rata-rata jumlah pemesanan hotel pada bulan Desember untuk City Hotel dan Resort Hotel, Hal ini dikarenakan libur Natal dan liburan malam tahun baru
 ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/assets/117062760/5c50412d-cfe6-4184-bdd9-458b8a221b89)
 
 
@@ -27,7 +27,7 @@ Jumlah rata-rata pemesanan hotel tertinggi pada bulan Juli dan Resort Hotel dica
 
   ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/blob/main/2.png)
 
-- Interpretation:
+- Interpretation: <br>
 Semakin lama pelanggan menginap, semakin tinggi tingkat pembatalan pemesanan. Durasi menginap paling banyak dibatalkan (cancellation rate) untuk city hotel terjadi pada minggu ke 5 sedangkan pada resort hotel terjadi pada minggu ke 8. dapat dilihat dari grafik bahwa banyaknya seseorang membatalkan pemesanan dimiliki oleh resort hotel dibandingkan dengan city hotel, karena jika di city hotel seseorang kemungkinan tidak akan reservasi hotel lebih lama dibandingkan dengan resort hotel, karena Resort hotel sendiri ialah tempat yang digunakan untuk relaksasi, liburan dengan fasilitas yang lengkap. Beberapa kegiatan biasanya ditawarkan di resort, termasuk pijat, makanan, perawatan kosmetik, dan hiburan langsung. Bentuk bangunanya bisa seperti bangunan tunggal seperti hotel, lokasinya bisa berupa pulau tertentu atau seluruh pulau. Itu sebabnya resort hotel yang memiliki cancellation rate lebih tinggi dibandingkan dengan city hotel
 ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/assets/117062760/e69b25fc-03c5-41d6-ac3e-ddbb3a3b678e)
 
@@ -36,6 +36,6 @@ Semakin lama pelanggan menginap, semakin tinggi tingkat pembatalan pemesanan. Du
 
   ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/blob/main/3.png)
 
-- Interpretation:
+- Interpretation: <br>
 Lead time adalah masa tunggu atau jarak waktu pemesanan hotel hingga waktu kedatangan. Lead time di quarter pertama memiliki cancellation rate terendah dengan persentase 30.63 untuk city hotel dan 20.03 untuk resort hotel. Lalu untuk lead time tertinggi dimiliki pada quarter 4 dengan persentase 76.24 untuk city hotel dan 42.39 untuk resort hotel.
 ![image](https://github.com/ariniamsr/Investigate_Hotel_Business/assets/117062760/fd18c24c-ec49-4563-9f47-837b9db728e7)
