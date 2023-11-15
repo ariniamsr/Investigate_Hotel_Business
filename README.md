@@ -39,4 +39,3 @@ Semakin lama pelanggan menginap, semakin tinggi tingkat pembatalan pemesanan. Du
 
 * Interpretation: <br>
 Lead time adalah masa tunggu atau jarak waktu pemesanan hotel hingga waktu kedatangan. Lead time di quarter pertama memiliki cancellation rate terendah dengan persentase 30.63 untuk city hotel dan 20.03 untuk resort hotel. Lalu untuk lead time tertinggi dimiliki pada quarter 4 dengan persentase 76.24 untuk city hotel dan untuk resort hotel 42.39.
-![image](https://github.com/ariniamsr/Investigate_Hotel_Business/assets/117062760/fd18c24c-ec49-4563-9f47-837b9db728e7)
