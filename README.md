@@ -1,4 +1,4 @@
-# Investigate-Business-Hotel-using-Data-Visualization
+# Investigate Business Hotel using Data Visualization
 
 “Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya. Pada kesempatan kali ini, saya akan lebih mendalami bisnis dalam bidang perhotelan. Fokus yang saya tuju adalah untuk mengetahui bagaimana perilaku pelanggan dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang ditemukan akan  sajikan dalam bentuk data visualisasi agar lebih mudah dipahami dan bersifat lebih persuasif. ”
 
